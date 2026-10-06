@@ -17,6 +17,10 @@ Custom AI agents, chatbots, voice agents and AI automation for small and mid-siz
 - You own the code, workflows and accounts.
 - 30 days of tuning after launch are included.
 
+## Open source
+
+- [checkbox-mcp](https://github.com/myradostudio/checkbox-mcp) — an unofficial MCP server for the Checkbox ПРРО API (Ukrainian software cash register): receipts, shifts, X/Z reports, goods and orders for AI assistants. Read-only by default.
+
 ## Links
 
 - Website: [myradostudio.com/en](https://myradostudio.com/en/) · [українською](https://myradostudio.com/)
