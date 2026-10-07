@@ -20,6 +20,7 @@ Custom AI agents, chatbots, voice agents and AI automation for small and mid-siz
 ## Open source
 
 - [checkbox-mcp](https://github.com/myradostudio/checkbox-mcp) — an unofficial MCP server for the Checkbox ПРРО API (Ukrainian software cash register): receipts, shifts, X/Z reports, goods and orders for AI assistants. Read-only by default.
+- [n8n-templates](https://github.com/myradostudio/n8n-templates) — three free n8n workflow templates: a daily Prozorro tender digest with AI summaries, invoice photos and PDFs to Google Sheets with an arithmetic check, and Nova Poshta parcel status changes to Telegram.
 
 ## Links
 
